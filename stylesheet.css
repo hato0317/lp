@@ -913,6 +913,7 @@ footer .c-up {
     position: relative;
     padding-top: 12px;
     padding-bottom: 12px;
+    height:20px;
   }
   .header-wrapper .header-image {
     width: 18%;
