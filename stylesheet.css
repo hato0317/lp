@@ -435,8 +435,6 @@ header {
 .merit li {
   list-style: none;
   width: 33%;
-  text-align: left;
-  margin: 0 20px;
 }
 
 .merit .different {
@@ -457,8 +455,9 @@ header {
 }
 
 .support {
-  margin: 0 30px;
   border: solid 3px #D9BC66;
+  width: 70%;
+  margin: auto;
 }
 
 .support h2 {
